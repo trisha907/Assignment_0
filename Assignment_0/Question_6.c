@@ -3,7 +3,7 @@ void main() {
 	int n=7;
 	int square,cube; 
 	
-	square=n*n*n*n;
+	square=n*n;
 	
 	cube=n*n*n;
 	
