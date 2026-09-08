@@ -11,4 +11,7 @@ void main() {
 	
 	average=sum/5;
 
+	printf("Sum of total elements is %d",sum);
+
+	printf("Average of elements is %d",average);
 }
